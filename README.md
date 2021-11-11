@@ -2,6 +2,8 @@
 increase productivity by using keyboard shortcuts with vscode
 
 # Open/View
+
+Open Command Pallete
 ```
 Shift+Cmd+P
 ```
